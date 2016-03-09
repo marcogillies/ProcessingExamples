@@ -1,0 +1,1 @@
+dummy file to check it works with non image files
